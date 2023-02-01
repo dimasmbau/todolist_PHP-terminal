@@ -1,7 +1,7 @@
 <?php
 
-require_once "../belajarPHP/todolist/model/todolist.php";
-require_once "../belajarPHP/todolist/bisnislogic/addtodolist.php";
+require_once "../model/todolist.php";
+require_once "../bisnislogic/addtodolist.php";
 
 addtodolist("samid");
 
